@@ -1,0 +1,38 @@
+.box1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 200px;
+  background-color: rgb(47, 255, 127);
+}
+.box2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 370px;
+  height: 170px;
+  background-color: rgb(71, 172, 255);
+}
+
+.box3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  width: 340px;
+  height: 140px;
+  background-color: rgb(255, 136, 128);
+}
+/* .box4 {
+  width: 280px;
+  height: 40px;
+  background-color: pink;
+} */
+
+/* 
+backgroundColor: "red",
+width: "280px",
+height: "280px",
+*/
